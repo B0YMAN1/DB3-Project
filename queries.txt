@@ -1,9 +1,15 @@
-1) What is the illness of the patient number 1 .
-2) How many days was in a hospital patient number 2 .
+1) What is the illness of the patient number 1.
+2) How many days was in a hospital patient number 2.
 3) What is the name of 5th patient's doctor.
 4) How many places in the hospital.
 5) What is the name  of the doctor.
 6) What is the country and the sum of who infected with corovirus.
 7) What is the name and telephone number of people with diabetes. 
 8) What is the name of patients who was ill with same disease more than once.
-
+9) What is the most common illness ?
+10) Did patient number 1 pay or not ?
+11) What is the name of person which was the longest time in a hospital.
+12) What is the name of the most popular doctor in a hospital.
+13) What is the country  which had  the most persons who was ill.
+14) What is the name and country person who was ill the most.
+15) What is the country which has most paid persons.
