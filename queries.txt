@@ -9,7 +9,7 @@
 9) What is the most common illness ?
 10) Did patient number 1 pay or not ?
 11) What is the name of person which was the longest time in a hospital.
-12) What is the name of the most popular doctor in a hospital.
+12) How many doctors' names are similar to Alex.
 13) What is the country  which had  the most persons who was ill.
 14) What is the name and country person who was ill the most.
 15) What is the country which has most paid persons.
